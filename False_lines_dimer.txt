@@ -1,2 +1,0 @@
-False_lines values
-116.000000
